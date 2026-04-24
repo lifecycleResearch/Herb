@@ -1,0 +1,14 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer circle -->
+  <circle cx="30" cy="30" r="28" stroke="var(--color-primary)" stroke-width="2" fill="none"/>
+  <!-- Recycling arrows (three arrows in a loop) -->
+  <path d="M20 30 A10 10 0 0 1 30 20 L35 25 L30 20 Z" fill="var(--color-primary)"/>
+  <path d="M40 30 A10 10 0 0 1 30 40 L25 35 L30 40 Z" fill="var(--color-primary)"/>
+  <path d="M30 50 A10 10 0 0 1 20 40 L25 35 L20 40 Z" fill="var(--color-primary)"/>
+  <!-- Hemp leaf in center -->
+  <path d="M30 20 C25 15, 20 18, 20 25 C20 32, 25 35, 30 35 C35 35, 40 32, 40 25 C40 18, 35 15, 30 20 Z" fill="var(--color-accent)"/>
+  <path d="M30 35 C28 40, 25 45, 30 50 C35 45, 32 40, 30 35 Z" fill="var(--color-accent)" opacity="0.8"/>
+  <!-- Text -->
+  <text x="50%" y="85%" text-anchor="middle" font-family="Plus Jakarta Sans, sans-serif" font-weight="700" font-size="10" fill="var(--color-primary)">LIFE CYCLE</text>
+  <text x="50%" y="95%" text-anchor="middle" font-family="Plus Jakarta Sans, sans-serif" font-weight="700" font-size="10" fill="var(--color-primary)">HEMP</text>
+</svg>

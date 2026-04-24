@@ -1,0 +1,12 @@
+{
+  "name": "agency-os",
+  "version": "1.0.0",
+  "description": "Autonomous agency operating system for building and deploying client websites",
+  "scripts": {
+    "dev": "echo \"Use individual project directories for development\"",
+    "build": "echo \"Build handled per project via GitHub Actions\""
+  },
+  "keywords": ["agency", "automation", "saas", "vercel", "supabase"],
+  "author": "AgencyOS",
+  "license": "MIT"
+}
