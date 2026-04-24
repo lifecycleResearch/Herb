@@ -2,7 +2,7 @@ name: Build and Deploy Client Project
 
 on:
   push:
-    branches: [ "project/**" ]
+    branches: [ "main", "master" ]
 
 jobs:
   build-and-deploy:
