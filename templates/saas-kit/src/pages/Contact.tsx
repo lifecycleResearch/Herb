@@ -1,7 +1,7 @@
 import React from 'react'
-import { SectionHeader } from '@/components/layout/section-header'
-import ContactForm from '@/components/sections/contact-form'
-import TrustBadges from '@/components/sections/trust-badges'
+import { SectionHeader } from '@/components/ui/SectionHeader'
+import ContactForm from '@/components/sections/ContactForm'
+import TrustBadges from '@/components/sections/TrustBadges'
 
 const Contact = () => {
   return (
