@@ -23,7 +23,6 @@ jobs:
         working-directory: ./templates/saas-kit
         run: npm run build
         env:
-          # These will be set as repository secrets
           VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
           VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
 
